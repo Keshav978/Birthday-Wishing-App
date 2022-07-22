@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bithday wishing app</string>
+    <string name="textview">TextView</string>
+    <string name="EnterYourName">Enter Your Name</string>
+    <string name="createyourcard">Createyourcard</string>
+    <string name="create_your_card">Create your card</string>
+</resources>
